@@ -1,5 +1,5 @@
 # ICC Men's T20 World Cup 2022 Data Analytics Project
-![IMG_20230925_115201_resize_9_resize_44](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/7d320a8c-23fd-4c41-a146-a6538c2a9163)
+![IMG_20230925_115201_resize_97](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/60a8675c-2488-4c0e-a586-de6937df8b77)
 
 The ICC Men's T20 World Cup is a cricket tournament played between various teams. In this project, I embarked on a journey to harness the power of data analytics to provide strategic guidance to form a team composition and match-winning strategies.
 
