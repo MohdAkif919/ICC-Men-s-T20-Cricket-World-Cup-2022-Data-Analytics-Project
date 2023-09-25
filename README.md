@@ -1,5 +1,6 @@
 # ICC Men's T20 World Cup 2022 Data Analytics Project
-![t20-world-cup-2022](https://drive.google.com/file/d/1OnWB8n5_AyaRcoZdrt0n2iIO3V86L4A6/view?usp=drivesdk)
+![t20-world-cup-2022](https://ibb.co/28kJ1dQ)
+
 The ICC Men's T20 World Cup is a cricket tournament played between various teams. In this project, I embarked on a journey to harness the power of data analytics to provide strategic guidance to form a team composition and match-winning strategies.
 
 ## Key Highlights
@@ -33,3 +34,5 @@ The ICC Men's T20 World Cup is a cricket tournament played between various teams
 >• Microsoft Power Query (Data Cleaning, Transformation and Modeling
 
 >• Microsoft Power BI (For Dashboard Creation)
+
+>• DAX Measures (To create Calculated Columns)
