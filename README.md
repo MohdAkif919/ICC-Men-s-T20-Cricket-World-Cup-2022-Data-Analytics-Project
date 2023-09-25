@@ -4,7 +4,7 @@
 The ICC Men's T20 World Cup is a cricket tournament played between various teams. In this project, I embarked on a journey to harness the power of data analytics to provide strategic guidance to form a team composition and match-winning strategies.
 
 ## Key Highlights
-• Data Gathering:>I performed web scraping to collect extensive data on players' information and stored it in a json file.
+• Data Gathering: > I performed web scraping to collect extensive data on players' information and stored it in a json file.
 
 >• **Data Cleaning:** I cleaned and preprocessed the acquired data, ensuring accuracy and consistency.
 
