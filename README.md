@@ -25,7 +25,7 @@ The ICC Men's T20 World Cup is a cricket tournament played between various teams
 >One of the project's key outcomes was the creation of a formidable Playing 11 team. This selection was meticulously crafted, taking into account the top-performing players from the aforementioned categories. The aim was to assemble a balanced team capable of both setting competitive totals and successfully defending them.
 
 ## Tools/Libraries Used
->BrightData (For Web Scraping)
->Python Pandas (Data Cleaning)
->Microsoft Power Query (Data Cleaning, Transformation and Modeling)
->Microsoft Power BI (For Dashboard Creation)
+>• BrightData (For Web Scraping)
+>• Python Pandas (Data Cleaning)
+>• Microsoft Power Query (Data Cleaning, Transformation and Modeling)
+>• Microsoft Power BI (For Dashboard Creation)
