@@ -1,8 +1,8 @@
-# ICC-T20-Cricket-World-Cup-2022-Data-Analytics-Project
+# ICC Men's T20 World Cup 2022 Data Analytics Project
 The ICC Men's T20 World Cup is a cricket tournament played between various teams. In this project, I embarked on a journey to harness the power of data analytics to provide strategic guidance to form a team composition and match-winning strategies.
 
 ✅ Key Highlights:
-• Data Gathering: Using BrightData, I performed web scraping to collect extensive data on players' information and stored it in a json file.
+> • **Data Gathering:** Using BrightData, I performed web scraping to collect extensive data on players' information and stored it in a json file.
 
 • Data Cleaning: With Python Pandas, I cleaned and preprocessed the acquired data, ensuring accuracy and consistency.
 
