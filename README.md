@@ -26,6 +26,9 @@ The ICC Men's T20 World Cup is a cricket tournament played between various teams
 
 ## Tools/Libraries Used
 >• BrightData (For Web Scraping)
+
 >• Python Pandas (Data Cleaning)
->• Microsoft Power Query (Data Cleaning, Transformation and Modeling)
+
+>• Microsoft Power Query (Data Cleaning, Transformation and Modeling
+
 >• Microsoft Power BI (For Dashboard Creation)
