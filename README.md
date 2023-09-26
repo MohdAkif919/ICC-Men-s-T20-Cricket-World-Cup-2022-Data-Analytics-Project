@@ -39,5 +39,6 @@ One of the project's key outcomes was the creation of a formidable Playing 11 te
 
 ## Dashboard Appearance
 1. Openers
+
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/0e5355c3-cc58-4ea5-84b9-a5e90db659d2)
 2. Anchors/Middle Order
