@@ -39,20 +39,26 @@ One of the project's key outcomes was the creation of a formidable Playing 11 te
 
 ## Dashboard Appearance
 1. Openers
+   
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/0e5355c3-cc58-4ea5-84b9-a5e90db659d2)
 
 2. Anchors/Middle Order
+   
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/caca3499-ed96-4974-8bfd-3629657fb310)
 
 3. Finishers/Lower Order
+
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/d53a137e-916e-42ea-8a5b-972afd60e8e9)
 
 4. All-rounders
+
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/608b8aaa-2461-479f-94bf-8326bbb3f4a5)
 
 5. Specialist Fast Bowlers
-![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/45e5588a-f3e8-4967-8cc5-ea528ca121df)
+
+![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/aab9be21-047a-4112-b06c-46d4a3a75f2a)
 
 6. Final Playing 11
+
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/692cf4ef-4009-4d2f-ab7d-90d64dcd4dcc)
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/aed3001c-b7aa-4bf3-b277-565210c738ba)
