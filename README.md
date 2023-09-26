@@ -13,7 +13,7 @@ The ICC Men's T20 World Cup is a cricket tournament played between various teams
 • **Dashboard Creation:** I created dashboards that effectively communicated critical insights to stakeholders. These dashboards were designed to be user-friendly, allowing for easy interpretation of complex cricket statistics.
 
 ## Insights Derived
-• **Top Power Hitters :** Identified the most explosive batsmen in the tournament, crucial for setting high run targets.
+• **Top Power Hitters/Openers :** Identified the most explosive batsmen in the tournament, crucial for setting high run targets.
 
 • **Top Anchors/Middle Order:** Recognized players who provided stability and maintained the innings during crucial phases.
 
@@ -36,3 +36,8 @@ One of the project's key outcomes was the creation of a formidable Playing 11 te
 • Microsoft Power BI (For Dashboard Creation)
 
 • DAX Measures (To create Calculated Columns)
+
+## Dashboard Appearance
+1. Openers
+![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/0e5355c3-cc58-4ea5-84b9-a5e90db659d2)
+2. Anchors/Middle Order
