@@ -27,17 +27,6 @@ The ICC Men's T20 World Cup is a cricket tournament played between various teams
 ## Playing 11 Selection
 One of the project's key outcomes was the creation of a formidable Playing 11 team. This selection was meticulously crafted, taking into account the top-performing players from the aforementioned categories. The aim was to assemble a balanced team capable of both setting competitive totals and successfully defending them.
 
-## Tools/Libraries Used
-• BrightData (For Web Scraping)
-
-• Python Pandas (Data Cleaning)
-
-• Microsoft Power Query (Data Cleaning, Transformation and Modeling
-
-• Microsoft Power BI (For Dashboard Creation)
-
-• DAX Measures (To create Calculated Columns)
-
 ## Dashboard Appearance
 1. Openers
    
@@ -63,3 +52,14 @@ One of the project's key outcomes was the creation of a formidable Playing 11 te
 
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/692cf4ef-4009-4d2f-ab7d-90d64dcd4dcc)
 ![image](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/aed3001c-b7aa-4bf3-b277-565210c738ba)
+
+## Tools/Libraries Used
+**• BrightData (For Web Scraping)**
+
+**• Python Pandas (Data Cleaning)**
+
+**• Microsoft Power Query (Data Cleaning, Transformation and Modeling**
+
+**• Microsoft Power BI (For Dashboard Creation)**
+
+**• DAX Measures (To create Calculated Columns)**
