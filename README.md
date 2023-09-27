@@ -58,7 +58,7 @@ One of the project's key outcomes was the creation of a formidable Playing 11 te
 
 **• Python Pandas (Data Cleaning)**
 
-**• Microsoft Power Query (Data Cleaning, Transformation and Modeling**
+**• Microsoft Power Query (Data Cleaning, Transformation and Modeling)**
 
 **• Microsoft Power BI (For Dashboard Creation)**
 
