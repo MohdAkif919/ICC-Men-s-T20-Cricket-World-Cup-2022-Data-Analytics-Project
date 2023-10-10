@@ -1,9 +1,10 @@
 # ICC Men's T20 World Cup 2022 Insights
 ![IMG_20230925_115201](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/4ffa3eda-ab5e-41b1-9699-5f8c62de0858)
 
-**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiY2Q0MDQ4ZjMtM2FlMi00OTJhLThlM2EtYjJkM2YxNmFiOTdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-## Introduction
+## Overview
 The ICC Men's T20 World Cup is a cricket tournament played between various teams. In this project, I embarked on a journey to harness the power of data analytics to provide strategic guidance to form a team composition and match-winning strategies.
+
+**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiY2Q0MDQ4ZjMtM2FlMi00OTJhLThlM2EtYjJkM2YxNmFiOTdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Highlights
 • **Data Gathering:** I performed web scraping to collect extensive data on players' information and stored it in a json file.
